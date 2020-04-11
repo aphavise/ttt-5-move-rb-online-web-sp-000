@@ -14,5 +14,5 @@ index = input_to_index(input)
 board = [" ", " ", " "," ", " ", " "," ", " ", " "]
 
 
-move(board,index,charater)
+move(board,index)
 display_board(board)
