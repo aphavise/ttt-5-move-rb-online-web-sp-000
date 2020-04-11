@@ -13,8 +13,6 @@ index = input_to_index(input)
 
 board = [" ", " ", " "," ", " ", " "," ", " ", " "]
 
-#puts " Choose X or O:"
-#charater =gets.strip
 
 move(board,index,charater)
 display_board(board)
